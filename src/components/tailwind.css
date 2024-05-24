@@ -1,0 +1,14 @@
+.container {
+    width: 100%;
+    margin: 50px auto;
+    background-color: #8a877d;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.completed {
+    text-decoration: line-through;
+    color: #888; 
+}
